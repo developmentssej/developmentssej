@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">💻 Full Stack Developer<br>👨🏻‍💻 Technical Leader<br>🛠️ Mechanical and technology<br>🧉✈️🏔️Trips, mate, and small towns</p>
+<p align="left">💻 Full Stack Developer<br>🛠️ Mechanical and technology<br>🧉✈️🏔️Trips, mate, and small towns</p>
 
 ###
 
